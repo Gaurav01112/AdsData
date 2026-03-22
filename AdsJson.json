@@ -1,7 +1,7 @@
 {
   "gameSetting": {
-    "CurrentAds": "G",
-    "IfCurrentAdsNotLoad": "U",
+    "CurrentAds": "U",
+    "IfCurrentAdsNotLoad": "G",
     "Onstart_banner": true,
     "Appopen_onstart": "1",
     "IsBannerOn": true,
