@@ -1,0 +1,54 @@
+{
+  "gameSetting": {
+    "CurrentAds": "G",
+    "IfCurrentAdsNotLoad": "U",
+    "Onstart_banner": true,
+    "Appopen_onstart": "1",
+    "IsBannerOn": true,
+    "IsInterstitialOn": true,
+    "IsRewardOn": true,
+    "IsAppopenOn": true,
+    "IsNativeOn": true,
+    "IsBannerPreload": true,
+    "IsInterstitalPreload": false,
+    "IsRewardPreload": true,
+    "IsAppopenPreload": true,
+    "IsNativePreload": true,
+    "Google_Banner_ID": "ca-app-pub-3940256099942544/6300978111",
+    "Google_Interstitial_ID": "ca-app-pub-3940256099942544/1033173712",
+    "Google_Reward_ID": "ca-app-pub-3940256099942544/5224354917",
+    "Google_Appopen_ID": "ca-app-pub-3940256099942544/9257395921",
+    "Google_Native_ID": "ca-app-pub-3940256099942544/2247696110",
+    "Unity_ID": "5983381",
+    "Version_live": "0"
+  },
+  "mainScreen": {
+    "Setting_Button": 1,
+    "Play_Button": 0
+  },
+  "settingScreen": {
+    "Close_Button": 0
+  },
+  "levelScreen": {
+    "Back_Button": 0,
+    "Levels_Button": 0
+  },
+  "gameScreen": {
+    "Pause_Button": 0,
+    "Retry_Button": 2
+  },
+  "pauseScreen": {
+    "Home_Button": 0,
+    "Resume_Button": 0
+  },
+  "hintScreen": {
+    "No_Button": 0,
+    "Yes_Button": 0
+  },
+  "failedScreen": {
+    "Reload_Button": 1
+  },
+  "winScreen": {
+    "Next_Button": 1
+  }
+}
